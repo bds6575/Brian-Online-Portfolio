@@ -1,7 +1,11 @@
 * {
     box-sizing: border-box;
   }
-  
+  /* Added styling for img */
+  img {
+    max-width: 100px;
+    border-radius: 50%;
+  }
   /* changed color palette to fit user's desire */
   :root {
     --primary: rgb(10, 46, 59);
@@ -236,7 +240,7 @@
   }
   
   .code-refractor {
-    background-image: url("c:/Users/brian/bootcamp/Brian-Week-Two-Challenge/assets/images/horiseon-screenshot.png");
+    background-image: url("../images/horiseon-screenshot.png");
   }
     
   @media screen and (max-width: 980px) {
