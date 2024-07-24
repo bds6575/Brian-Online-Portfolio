@@ -228,11 +228,11 @@
   }
   
   .led-wall {
-    background-image: url("../images/projectend.png");
+    background-image: url("../images/horiseon-screenshot.png");
   }
   
   .react-calc {
-    background-image: url("../images/02-portfolio-2.jpg");
+    background-image: url("../images/TaskBoard.png");
   }
   
   .pastel-puzzles {
@@ -240,7 +240,7 @@
   }
   
   .code-refractor {
-    background-image: url("../images/horiseon-screenshot.png");
+    background-image: url("../images/projectend.png");
   }
     
   @media screen and (max-width: 980px) {
